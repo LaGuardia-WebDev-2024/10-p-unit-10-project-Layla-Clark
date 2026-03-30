@@ -11,6 +11,12 @@ text(bakeryLabels[0], 150, 40);
 text(bakeryLabels[1], 150, 110);
 text(bakeryLabels[2], 150, 180);
 
+var prices = ["$40","$50","$60"];
+fill(252, 3, 3);
+text(prices[0], 250, 40);
+text(prices[1], 250, 110);
+text(prices[2], 250, 180);
+
 //crossiant
   var crossiantX = 60;
   textSize(30);
